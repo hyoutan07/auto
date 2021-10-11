@@ -74,3 +74,5 @@ input('何か入力してください')
     
 driver.close()
 driver.quit()
+
+a = 1
