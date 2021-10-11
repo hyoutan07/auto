@@ -73,4 +73,8 @@ while time.time() - start < 120.0:
 input('何か入力してください')
     
 driver.close()
-driver.quit()
+driver.qu
+
+
+
+print(121312434)
